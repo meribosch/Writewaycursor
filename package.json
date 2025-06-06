@@ -1,1 +1,1 @@
-{"name":"writeway","version":"1.0.0","description":"Writeway platform","private":true,"workspaces":["frontend","backend"],"scripts":{"start":"cd frontend && npm start","build":"cd frontend && npm run build","dev":"cd frontend && npm run dev","postinstall":"cd frontend && npm install"},"engines":{"node":">=18.0.0"}}
+{"name":"writeway","version":"1.0.0","description":"Writeway platform","private":true,"scripts":{"start":"cd frontend && npm start","build":"cd frontend && npm run build","dev":"cd frontend && npm run dev"},"engines":{"node":">=18.0.0"}}
